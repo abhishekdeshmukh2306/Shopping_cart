@@ -7,6 +7,7 @@ The Shopping Cart App is a feature-rich e-commerce application built with React.
 
 
 @Features
+
 1)Product Listing: Browse a wide range of products with detailed descriptions, prices, and images.
 
 2)Product Search: Quickly find products using the search functionality.
@@ -23,7 +24,7 @@ The Shopping Cart App is a feature-rich e-commerce application built with React.
 
 8)Checkout Process: Simulated checkout process to review and confirm the order.
 
-Technologies Used
+@Technologies Used
 
 1)React: A JavaScript library for building user interfaces.
 
