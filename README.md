@@ -1,4 +1,4 @@
-#Shopping Cart App
+                                                      <--- Shopping Cart App --->
 
 
 @Description
@@ -7,21 +7,21 @@ The Shopping Cart App is a feature-rich e-commerce application built with React.
 
 
 @Features
-#Product Listing: Browse a wide range of products with detailed descriptions, prices, and images.
+1)Product Listing: Browse a wide range of products with detailed descriptions, prices, and images.
 
-#Product Search: Quickly find products using the search functionality.
+2)Product Search: Quickly find products using the search functionality.
 
-#Category Filters: Filter products by categories to easily find what you're looking for.
+3)Category Filters: Filter products by categories to easily find what you're looking for.
 
-# Cart Management: Add, remove, and update product quantities in the cart.
+4)Cart Management: Add, remove, and update product quantities in the cart.
 
-#Real-time Updates: See real-time updates of cart totals as items are added or removed.
+5)Real-time Updates: See real-time updates of cart totals as items are added or removed.
 
-#Responsive Design: Optimized for both desktop and mobile devices.
+6)Responsive Design: Optimized for both desktop and mobile devices.
 
-#Persisted State: Cart state is persisted across sessions using local storage.
+7)Persisted State: Cart state is persisted across sessions using local storage.
 
-#Checkout Process: Simulated checkout process to review and confirm the order.
+8)Checkout Process: Simulated checkout process to review and confirm the order.
 
 Technologies Used
 
